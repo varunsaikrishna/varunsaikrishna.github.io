@@ -4,10 +4,10 @@ export const portfolioData = {
     name: "Varun Kanulla",
     title: "AI Engineer",
     tagline: "Results-driven Software Engineer with 3+ years of experience evolving into an AI Engineer, specializing in machine learning, deep learning, and scalable AI systems.",
-    email: "varunsaikrishnakanulla@gmail.com",
+    email: "varun.k@jobhuntbox.com",
     phone: "+1 (352) 224-8872",
     linkedin: "https://www.linkedin.com/in/varunsaikrishna",
-    github: "#" // Placeholder
+    github: "https://github.com/varunsaikrishna"
   },
 
   about: {
